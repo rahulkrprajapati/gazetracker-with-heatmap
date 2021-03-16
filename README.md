@@ -54,6 +54,6 @@ After the script fires up, it open's up the `open-cv` window where you can see y
 
 Next open up the content and after you're done open up the `open-cv` window again and press the `Esc` (escape key). This would generate the video containing the scatter plot data superimposed on each of the frames. 
 
-![Demo Video](https://github.com/null-buster/gazetracker-with-heatmap/blob/master/Demo%20Video.avi)
+Note: The script sampled at 30FPS on my laptop to generate the output so I had to slow down the video from an external source to get the slowed output.
 
-
+![Scrolling Demo](https://github.com/null-buster/gazetracker-with-heatmap/blob/master/New%20Scrolling%20Demo.gif)
