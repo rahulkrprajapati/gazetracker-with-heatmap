@@ -8,14 +8,23 @@ To install the requirements from `requirements.txt` please run:
 `pip install -r requirements.txt`
 
 Alternatively the requirements could also be installed by running seperate `pip` commands for each entry in the `requirements.txt` file. This can be done as shown below.
+
 `pip install numpy`
+
 `pip install opencv-python`
+
 `pip install autopy`
+
 `pip install matplotlib`
+
 `pip install seaborn`
+
 `pip install Pillow`
+
 `pip install pyscreenshot`
+
 `pip install PyAutoGUI`
+
 
 ## Instructions for running the scripts
 
