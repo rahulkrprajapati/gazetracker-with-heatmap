@@ -1,0 +1,8 @@
+numpy
+opencv-python
+autopy
+matplotlib
+seaborn
+Pillow
+pyscreenshot
+PyAutoGUI
